@@ -1,1 +1,1 @@
-# -nokelebek-esports-challenge
+# nokelebek-esports-challenge
